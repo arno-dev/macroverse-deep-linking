@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "VPZ749UFB5.com.m2.comics",
+                "paths": [ "*" ]
+            },
+            {
+                "appID": "WW25RG4698.com.test.m2.comics",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
