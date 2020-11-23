@@ -1,11 +1,25 @@
 {
-  "name" : "macroverse-deep-linking",
-  "description" : "Macroverse deep linking - AAPS",
-  "homepage" : "http://documentcloud.github.com/underscore/",
-  "keywords" : ["util", "functional", "server", "client", "browser"],
-  "author" : "Arnaud PHOMMASONE <arnaud@comet.la>",
-  "contributors" : [],
-  "repository" : {"type": "git", "url": "git://github.com/documentcloud/underscore.git"},
-  "main" : "index.js",
-  "version" : "1.0.0"
+  "name": "macroverse",
+  "version": "1.0.0",
+  "description": "Macroverse hosting website for deep linking",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arno-dev/macroverse-deep-linking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arno-dev/macroverse-deep-linking/issues"
+  },
+  "homepage": "https://github.com/arno-dev/macroverse-deep-linking#readme"
 }
