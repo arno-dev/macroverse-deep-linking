@@ -1,0 +1,11 @@
+{
+  "name" : "macroverse-deep-linking",
+  "description" : "Macroverse deep linking - AAPS",
+  "homepage" : "http://documentcloud.github.com/underscore/",
+  "keywords" : ["util", "functional", "server", "client", "browser"],
+  "author" : "Arnaud PHOMMASONE <arnaud@comet.la>",
+  "contributors" : [],
+  "repository" : {"type": "git", "url": "git://github.com/documentcloud/underscore.git"},
+  "main" : "index.js",
+  "version" : "1.0.0"
+}
