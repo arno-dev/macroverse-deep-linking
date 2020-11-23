@@ -14,6 +14,10 @@ app.get(['/apple-app-site-association', '/.well-known/apple-app-site-association
     res.send(appleAppSiteAssociationContents);
 });
 
+app.get('/', function (req, res) {
+    res.send("Hello world");
+});
+
 app.listen(port, () => {
     console.log(`Example app listening at http://localhost:${port}`)
 })
