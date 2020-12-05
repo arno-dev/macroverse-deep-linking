@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.test.m2action.deadtown",
+      "sha256_cert_fingerprints": [
+        "1B:71:67:B0:49:1C:79:6E:56:38:D8:24:B4:56:F7:58:EA:8E:0A:0A:96:3B:27:17:B4:25:FE:0B:5F:89:FF:69"
+      ]
+    }
+  }
+]
